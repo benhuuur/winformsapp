@@ -1,0 +1,15 @@
+C:\Users\disrct\Desktop\winformsapp\bin\Debug\net7.0-windows\winformsapp.exe
+C:\Users\disrct\Desktop\winformsapp\bin\Debug\net7.0-windows\winformsapp.deps.json
+C:\Users\disrct\Desktop\winformsapp\bin\Debug\net7.0-windows\winformsapp.runtimeconfig.json
+C:\Users\disrct\Desktop\winformsapp\bin\Debug\net7.0-windows\winformsapp.dll
+C:\Users\disrct\Desktop\winformsapp\bin\Debug\net7.0-windows\winformsapp.pdb
+C:\Users\disrct\Desktop\winformsapp\obj\Debug\net7.0-windows\winformsapp.csproj.AssemblyReference.cache
+C:\Users\disrct\Desktop\winformsapp\obj\Debug\net7.0-windows\winformsapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disrct\Desktop\winformsapp\obj\Debug\net7.0-windows\winformsapp.AssemblyInfoInputs.cache
+C:\Users\disrct\Desktop\winformsapp\obj\Debug\net7.0-windows\winformsapp.AssemblyInfo.cs
+C:\Users\disrct\Desktop\winformsapp\obj\Debug\net7.0-windows\winformsapp.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\winformsapp\obj\Debug\net7.0-windows\winformsapp.dll
+C:\Users\disrct\Desktop\winformsapp\obj\Debug\net7.0-windows\refint\winformsapp.dll
+C:\Users\disrct\Desktop\winformsapp\obj\Debug\net7.0-windows\winformsapp.pdb
+C:\Users\disrct\Desktop\winformsapp\obj\Debug\net7.0-windows\winformsapp.genruntimeconfig.cache
+C:\Users\disrct\Desktop\winformsapp\obj\Debug\net7.0-windows\ref\winformsapp.dll
